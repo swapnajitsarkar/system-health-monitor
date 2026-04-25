@@ -1,0 +1,7 @@
+logs/
+*.log
+*.pid
+__pycache__/
+*.py[cod]
+.env
+/tmp/
